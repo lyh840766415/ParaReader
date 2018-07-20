@@ -1,0 +1,6 @@
+﻿  config.cpp
+config.cpp(44): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+config.cpp(59): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+config.cpp(60): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+config.cpp(68): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  ParaReader.vcxproj -> E:\lab\ParaReader\x64\Release\ParaReader.lib
